@@ -1,4 +1,4 @@
-# YOLOv8-people-detection_ROS2
+# ROS2_YOLOv8_people_detection
 
 # Prerequisites
  * Ubuntu 20.04 Focal Fossa (https://releases.ubuntu.com/20.04/)

@@ -33,4 +33,10 @@ colcon build
     ros2 launch people_detector people_detection.py
    ```
 
+# Demo 
+
+Click on the following image to see the demo video
+
+
+[![Introduction Video](https://img.youtube.com/vi/Av4k-0pE_-4/0.jpg)](https://youtu.be/Av4k-0pE_-4)
 

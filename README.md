@@ -35,4 +35,4 @@ colcon build
 
  # Demo screenshot
 Click on the following image to see the demo video
-[![Introduction Video](https://www.youtube.com/watch?v=Av4k-0pE_-4)](https://youtu.be/ref2wBkOIQE)
+[![Introduction Video](https://www.youtube.com/watch?v=Av4k-0pE_-4)]
